@@ -1,11 +1,11 @@
-👋 Hi! I'am Reynegton Nunes
+## 👋 Hi! I'am Reynegton Nunes
 =====================
 
 <!-- Statistic -->
 <div align="center">
   <a href="https://github.com/reynegton">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynegton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynegton&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reynegton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynegton&layout=compact&langs_count=4&theme=dracula"/>
 </div>
   
 <!--  Technologies  -->
